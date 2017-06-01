@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/BrayangGitHub/MetalDefender/issues"
   },
-  "homepage": "https://github.com/BrayangGitHub/MetalDefender#readme"
+  "homepage": "https://github.com/BrayangGitHub/MetalDefender#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.4"
+  }
 }
