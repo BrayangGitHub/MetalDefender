@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-var uri = 'mongodb://khoanmc:khoanmc@ds155841.mlab.com:55841/student-node-test';
+var uri = 'mongodb://brayang:brayang@ds161041.mlab.com:61041/metal-defender-sanbox';
 // Create the database connection
 console.log('db connecting ........ ');
 
