@@ -1,0 +1,19 @@
+{
+  "name": "metal_defender",
+  "version": "1.0.0",
+  "description": "server-side metal defender project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayangGitHub/MetalDefender.git"
+  },
+  "author": "khoanmc-brayang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayangGitHub/MetalDefender/issues"
+  },
+  "homepage": "https://github.com/BrayangGitHub/MetalDefender#readme"
+}
